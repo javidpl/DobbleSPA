@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dobble SPA</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="jquery-3.3.1.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function($) {
+			var nNum = 0;
+			document.getElementById("btn1").onclick = function() {setUp( document.getElementById("input1").value)}; //recuerda que el input devuelve string por defecto
+
+			//$("#btn1").click({param1: document.getElementById("input1").value}, setUp);
+
+			//$("#btn1").click(setUp($('#input1')));
+			//problema arriba. Metodo sin parentesis si que funciona, pero entonces como coño paso un parametro????
+		});
+		function setUp(number){
+			//vaciar los divs
+		    $("#todos").html("");
+			$("#cards_container").html("");
+
+			nNum=parseInt(number);
+			numCartas= nNum*nNum+nNum+1;
+			var arrayNum = [];
+			var arrayVertical = [];
+			//todo el array
+			$('#todos').append("the deck has " + numCartas + " cards<br>");
+			$('#todos').append("the elements are: <br> ");
+			for(i = 0;i<((nNum*nNum)+nNum+1);i++){
+				arrayNum.push(i+1);
+				$('#todos').append(arrayNum[i]+' , ');
+			}
+			//verticals
+			for(i = 0; i<nNum;i++){
+				$('#cards_container').append('<div class="card verticals" id="vertical'+i+'"></div>');
+				for(j = 0; j<nNum; j++){
+					var item= (i+1)+(j*nNum);
+					arrayVertical.push(item);
+					$('#vertical'+i).append(arrayVertical[j]+' , ');
+				}
+				$('#vertical'+i).append(nNum*nNum+1);
+				arrayVertical = [];
+			}
+			//horizontals
+			for(i = 0; i<nNum;i++){
+				$('#cards_container').append('<div class="card horizontals" id="horizontal'+i+'"></div>');
+				for(j = 0; j<nNum; j++){
+					var item= (i*nNum)+j+1;//(i+1)+(j*nNum);
+					arrayVertical.push(item);
+					$('#horizontal'+i).append(arrayVertical[j]+' , ');
+				}
+				$('#horizontal'+i).append(nNum*nNum+2);
+				arrayVertical = [];
+			}
+			//rest
+			for(f=1;f<nNum;f++){
+				for(i = 0; i<nNum;i++){
+					$('#cards_container').append('<div class="card out1" id="out-'+f+i+'"></div>');
+					for(j = 0; j<nNum; j++){
+						var item= (nNum*j+i+1)-(j*f);//ultimo es factor
+
+						if(item<nNum*(j)+1){//esto es lo unico que no entiendo
+							var cifra= (nNum*j) -item;
+							var saltosExtra = Math.floor(cifra/nNum);
+
+							item += nNum;
+							if(saltosExtra>=1){
+								item += nNum*saltosExtra;
+							}
+						}
+						arrayVertical.push(item);
+						$('#out-'+f+i).append(arrayVertical[j]+' , ');
+					}
+				$('#out-'+f+i).append(nNum*nNum+2+f);
+				arrayVertical = [];
+				}
+			}
+
+			reorderCards();
+		}
+
+		function reorderCards(){
+			$("#cards_container").html($("#cards_container .card").sort(function(){
+			    	return Math.random()-0.5;
+				}));
+		}
+
+	</script>
+
+</head>
+<body>
+
+ <div id="intro" style="margin: 10px;">Introduce the number of elements in each card</div>
+
+
+ <select name="input" id="input1" style="margin-top: 10px; margin-left: 25px; width: 50px;">
+  <option >3</option>
+  <option >5</option>
+  <option >7</option>
+  <option >8</option>
+</select>
+ <input type="button" name="button" value="Go" id="btn1" style="margin-top: 10px;">
+ <hr>
+ <div  id="todos"></div>
+ <hr>
+ <div  id="cards_container"></div>
+
+</body>
+</html>

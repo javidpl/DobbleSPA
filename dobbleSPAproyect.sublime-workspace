@@ -1,0 +1,748 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"darkgre",
+				"darkgrey"
+			],
+			[
+				"color",
+				"colorArray"
+			],
+			[
+				"off",
+				"offset\t.offset()"
+			],
+			[
+				"orig",
+				"origRadius"
+			],
+			[
+				"unde",
+				"undefined\t: object Global"
+			],
+			[
+				"mou",
+				"mousemove\t.mousemove()"
+			],
+			[
+				"innerHei",
+				"innerHeight"
+			],
+			[
+				"innerw",
+				"innerWidth"
+			],
+			[
+				"circle",
+				"circleArray"
+			],
+			[
+				"rad",
+				"radius"
+			],
+			[
+				"innerH",
+				"innerHeight"
+			],
+			[
+				"inner",
+				"innerWidth\t.innerWidth()"
+			],
+			[
+				"inne",
+				"innerWidth"
+			],
+			[
+				"inn",
+				"innerHeight"
+			],
+			[
+				"x",
+				"xMov"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"fl",
+				"floor\t( x: number ): number Math"
+			],
+			[
+				"stro",
+				"stroke"
+			],
+			[
+				"line",
+				"lineno\t: unsigned long ErrorEvent"
+			],
+			[
+				"hei",
+				"height\t = 'inherit' Style CSS"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"que",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"do",
+				"document\t: Document Window"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"ora",
+				"orangered"
+			],
+			[
+				"yel",
+				"lightyellow"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"li",
+				"lightcoral"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"transfo",
+				"transform"
+			],
+			[
+				"ea",
+				"ease-in-out"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"transi",
+				"transition"
+			],
+			[
+				"ligh",
+				"lightblue"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"car",
+				"cards_container"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"nu",
+				"numCartas"
+			],
+			[
+				"se",
+				"setUp"
+			],
+			[
+				"val",
+				"value\tAngularJS"
+			],
+			[
+				"va",
+				"value\tAngularJS"
+			],
+			[
+				"inpu",
+				"input1"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"cent",
+				"align-content"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"sal",
+				"saltosExtra"
+			],
+			[
+				"sa",
+				"saltosExtra"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"lig",
+				"lightgreen"
+			],
+			[
+				"lightr",
+				"lightgreen"
+			],
+			[
+				"arr",
+				"arrayVertical"
+			],
+			[
+				"n",
+				"nNum"
+			],
+			[
+				"ar",
+				"arrayVertical"
+			],
+			[
+				"arra",
+				"arrayVertical"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"h",
+				"html\t.html()"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"lim",
+				"limegreen"
+			],
+			[
+				"lith",
+				"lightblue"
+			],
+			[
+				"ng",
+				"ngIf\tAngular 2 ngIf Snippet"
+			],
+			[
+				"htt",
+				"HttpClientModule"
+			],
+			[
+				"err",
+				"errorMensaje"
+			],
+			[
+				"pe",
+				"_peticionesServices"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"cli",
+				"clip-path"
+			],
+			[
+				"aut",
+				"auto"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"ngcl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"co",
+				"coche"
+			],
+			[
+				"coh",
+				"coche"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"app",
+				"app-routing"
+			],
+			[
+				"Rou",
+				"RouterModule"
+			],
+			[
+				"Mo",
+				"ModuleWithProviders"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"M",
+				"ModuleWithProviders"
+			],
+			[
+				"Mod",
+				"RouterModule"
+			],
+			[
+				"trab",
+				"trabajadorExterno"
+			],
+			[
+				"traba",
+				"trabajos"
+			],
+			[
+				"emple",
+				"empleadoDelMes"
+			],
+			[
+				"emplea",
+				"empleadoDelMes"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fan",
+				"fantasy"
+			],
+			[
+				"fad",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"bu",
+				"button2"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/Git-Jav-projects/chris_course_tutorials/index.html",
+			"settings":
+			{
+				"buffer_size": 266,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n//C funciona como un pincel mágico. Por eso hay que tener en cuenta el orden del código\n//Cuando vas cambiando propiedades como el color, va afectando al siguiente objeto creado.\n//es como mojar en otro color\n\nvar canvas = document.querySelector('canvas');\n\ncanvas.width = window.innerWidth;\ncanvas.height = window.innerHeight;\n\nvar c = canvas.getContext('2d');\nc.fillStyle = 'rgba(255,0,0,0.5)';\nc.fillRect(200,200,100,100);\nc.fillRect(250, 250, 150, 150);\n//green rect\nc.fillStyle = 'rgba(0,255,0,0.5)';\nc.fillRect(300,350,50,100);\n//blue rect\nc.fillStyle = 'rgba(0,0,255,0.5)';\nc.fillRect(600,50,100,100);\n//empty rect ---- para que afecte color y grosor, hay que aplicarlos antes de crear el objeto\nc.strokeStyle = \"rgba(255,0,0,0.5)\";\nc.lineWidth = 10;\nc.strokeRect(650,10,100,100);\n\n//empty rect con gradient\n//el gradient se crea con las coordenadas del canvas\nvar gradient = c.createLinearGradient(900,0,1050,0);\ngradient.addColorStop(\"0\",\"magenta\");\ngradient.addColorStop(\"0.5\",\"blue\");\ngradient.addColorStop(\"1\",\"red\");\nc.strokeStyle = gradient;\nc.strokeRect(900,200,300,150);\n\n//line ---- aquí se puede dar las propiedades antes de dibujar la linea, que es con c.stroke()\nc.beginPath();\nc.moveTo(450, 300);\nc.lineTo(700, 200);\nc.lineTo(800, 300);\n//si tienes una linea se cierra\nc.closePath();\nc.strokeStyle = \"#cba\";\nc.lineWidth= 8;\nc.stroke();\n\n//Arc - Circle\n//como es en radiantes, para hacer toda la circunferencia es Math.pi * 2 \n//para que no se junte con la linea anterior ---> beginPath()\nc.beginPath();\nc.arc(200, 200, 50, 0, Math.PI * 2 , false);\nc.strokeStyle = 'lightblue';\nc.stroke();\n\n//linea círculos amarillos \nfor(i = 0 ; i < 100 ; i++){\n\tc.beginPath();\n\tc.arc(i*50, 50, 25, 0, Math.PI * 2 , false);\n\tc.fillStyle = 'yellow';\n\tc.fill();\n}\n\n//circulos rosas aleatorios\n/*\nfor(i = 0 ; i < 10 ; i++){\n\tvar x = Math.random() * window.innerWidth;\n\tvar y = Math.random() * window.innerHeight;\n\t//asi es para un random entre dos valores * (max-min)) + min;\n\tvar radius = Math.floor(Math.random() * (100-25)) + 25;\n\tvar randomColor1 = Math.random() * 255;\n\tvar randomColor2 = Math.random() * 255;\n\tvar randomColor3 = Math.random() * 255;\n\tc.beginPath();\n\tc.arc(x, y, radius, 0, Math.PI * 2, true);\n\tc.fillStyle = 'rgba('+randomColor1+','+randomColor2+','+randomColor3+',0.7)';\n\tc.fill();\n}\n*/\n\n\n\n//variables generales que no se modifican\nvar offset = 50;\nvar maxRadius = 50;\nvar colorArray = ['#005B7F','#4CCBFF','#00B5FF','#15617F'];\n\n//create a mouse\nvar mouse = {\n\tx : undefined,\n\ty : undefined\n}\n\n//evento mouse movement\nwindow.addEventListener(\n\t'mousemove', \n\t/*\n\tfunction(event){\n\t\tmouse.x = event.x;\n\t\tmouse.y = event.y;\n\t}\n\t*/\n\t//traduccion a funcion de flecha\n\t(event) => {\n\t\tmouse.x = event.x; \n\t\tmouse.y = event.y}\n\t);\n\n//evento resize dinamic\nwindow.addEventListener(\n\t'resize', \n\tfunction(event){\n\t\tcanvas.width = window.innerWidth;\n\t\tcanvas.height = window.innerHeight;\n\t\t//se reinician los valores de los elementos (para que ocupen toda la pantalla si se resize)\n\t\tinit();\n\t});\n\n//Objecto círculo\nfunction Circle(x,y,radius,dx,dy){\n\tthis.x = x;\n\tthis.y = y;\n\tthis.radius = radius;\n\tthis.minRadius = radius;\n\tthis.dx = dx;\n\tthis.dy = dy;\n\tthis.color = colorArray[Math.floor(Math.random()* colorArray.length)];\n\n\tthis.draw = function(){\n\t\tc.beginPath();\n\t\tc.arc(this.x, this.y, this.radius, 0, Math.PI * 2, true);\n\t\tc.fillStyle = this.color;\n\t\tc.fill();\n\t}\n\n\tthis.update = function(){\n\t\t//dibujamos el objet ---- también funciona haciendolo al final del método\n\t\tthis.draw();\n\t\t//para que vuelvan cuando llegan al límite\n\t\tif(this.x > innerWidth - this.radius || this.x < 0 + this.radius){\n\t\t\tthis.dx = -this.dx;\n\t\t}\n\t\tif(this.y > innerHeight - this.radius || this.y < 0 + this.radius){\n\t\t\tthis.dy =  -this.dy;\n\t\t}\n\t\tthis.x += this.dx;\n\t\tthis.y += this.dy;\t\n\n\t\t//interactivity\n\t\t//if mouse is close to circles\n\t\tif(mouse.x - this.x < offset && mouse.x - this.x > -offset\n\t\t\t&& mouse.y - this.y < offset && mouse.y - this.y > -offset){\n\t\t\tif(this.radius < maxRadius){\n\t\t\t\tthis.radius += 1;\n\t\t\t}\n\t\t}else{\t\n\t\t   \tif(this.radius > this.minRadius){\t\n\t\t\tthis.radius -= 1;\n\t\t\t}\t\t\t\n\t\t}\n\t}\n\t\n}\n\n//esto sirve para usar en resize. Init() para iniciar variables y spawnear elementos array\nvar circleArray = [];\nfunction init(){\n\tcircleArray=[];\n\tfor(i=0;i<500;i++){\n\t\tvar radius = Math.random() * (5-2) +2;\n\t\tvar x = Math.random() * (innerWidth - radius*2) +radius;\n\t\tvar y = Math.random() * (innerHeight - radius*2) +radius;\n\t\tvar dx = (Math.random() - 0.5) * 3;\n\t\tvar dy = (Math.random() - 0.5) * 3;\n\n\t\tcircleArray.push(new Circle(x,y,radius,dx,dy));\t\t\n\t}\n}\n\n//animar círculo\nfunction animar(){\n\n\trequestAnimationFrame(animar);\n\n\t//limpiar lo dibujado antes con clearRect --------> aunque limpia todo\n\tc.clearRect(0,0,window.innerWidth,window.innerHeight);\n\n\tfor(i = 0; i < circleArray.length; i++){\n\t\tcircleArray[i].update();\n\t}\n}\n\ninit();\n\nanimar();",
+			"file": "/C/xampp/htdocs/Git-Jav-projects/chris_course_tutorials/canvas.js",
+			"file_size": 5069,
+			"file_write_time": 131933637149512837,
+			"settings":
+			{
+				"buffer_size": 4876,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Indexing Status"
+			]
+		],
+		"width": 675.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Git-Jav-projects/chris_course_tutorials/canvas.js",
+		"/C/xampp/htdocs/DobbleSPA/index.html",
+		"/C/xampp/htdocs/Git-Jav-projects/dobble_generator.html",
+		"/C/xampp/htdocs/Project_questionnaire/images/path2.svg",
+		"/C/xampp/htdocs/DobbleSPA/style.css",
+		"/C/xampp/htdocs/Git-Jav-projects/div_rotation.html",
+		"/C/xampp/htdocs/Git-Jav-projects/click_shape_change.html",
+		"/C/xampp/htdocs/Project_questionnaire/view/functions.js",
+		"/C/xampp/htdocs/Project_questionnaire/view/index.php",
+		"/C/xampp/htdocs/Project_questionnaire/view/estilo.css",
+		"/C/xampp/htdocs/curso-Angular4/src/app/services/peticiones.service.ts",
+		"/C/Users/javi/Desktop/prueba_html.html",
+		"/C/Users/javi/Desktop/JOB2018/Cemm-3D_Artist-Javier_de_Pedro.html",
+		"/C/Users/javi/Desktop/JOB2018/Job_Bewerbung-Javier de Pedro.html",
+		"/C/xampp/htdocs/curso-Angular4-backend/index.php",
+		"/C/xampp/htdocs/curso-Angular4-backend/composer.json",
+		"/C/xampp/htdocs/Project_questionnaire/view/question1.php",
+		"/C/xampp/htdocs/curso-Angular4-backend/bbdd.sql",
+		"/C/xampp/htdocs/curso-Angular4/src/app/app.routing.ts",
+		"/C/xampp/htdocs/curso-Angular4/src/app/app.module.ts",
+		"/C/xampp/htdocs/curso-Angular4/src/app/app.component.html",
+		"/C/xampp/htdocs/curso-Angular4-backend/bbdd.sql.txt",
+		"/C/xampp/htdocs/curso-Angular4/src/app/plantillas/plantillas.component.html",
+		"/C/xampp/htdocs/curso-Angular4/src/app/plantillas/plantillas.component.ts",
+		"/C/xampp/htdocs/curso-Angular4/src/app/coches/coche.ts",
+		"/C/xampp/htdocs/curso-Angular4/src/app/coches/coches.component.html",
+		"/C/xampp/htdocs/curso-Angular4/src/app/coches/coches.component.ts",
+		"/C/Users/javi/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/C/xampp/htdocs/curso-Angular4/src/app/app-routing.module.ts",
+		"/C/xampp/htdocs/curso-Angular4/src/app/empleados/empleados.component.html",
+		"/C/xampp/htdocs/curso-Angular4/src/app/empleados/empleados.component.ts",
+		"/C/xampp/htdocs/curso-Angular4/src/index.html",
+		"/C/xampp/htdocs/curso-Angular4/src/app/empleados/empleado.ts",
+		"/C/xampp/htdocs/curso-Angular4/src/app/empleados/empleados.component.css",
+		"/C/xampp/htdocs/curso-Angular4/src/app/app.component.scss",
+		"/C/xampp/htdocs/curso-Angular4/src/app/app.component.ts",
+		"/C/xampp/htdocs/curso-Angular4/src/app/fruta/fruta.component.ts",
+		"/C/xampp/htdocs/curso-Angular4/src/app/empleados/empleados.component.scss",
+		"/C/xampp/htdocs/curso-Angular4/src/styles.scss",
+		"/C/Users/javi/Desktop/ejemplophp",
+		"/C/Users/javi/Desktop/ejemplocss",
+		"/C/Users/javi/Desktop/estilo_ejemplo",
+		"/C/Users/javi/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/javi/AppData/Roaming/Sublime Text 3/Packages/BrowserIntegration/BrowserIntegration.sublime-settings",
+		"/C/Users/javi/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/xampp/htdocs/curso-Angular4/node_modules/cli-cursor/index.js",
+		"/C/xampp/htdocs/curso-Angular4/node_modules/async/dist/async.js",
+		"/C/Users/javi/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/xampp/htdocs/CursoPHP/MVC_CRUD/controller/personas_controlador.php",
+		"/C/xampp/htdocs/CursoPHP/46_formulario_actualizar.php",
+		"/C/xampp/htdocs/CursoPHP/20-funciones.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"color",
+			"update",
+			"floor",
+			"random",
+			"5",
+			"HttpClient",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/Git-Jav-projects/chris_course_tutorials/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.22.region_keys":
+							[
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/Git-Jav-projects/chris_course_tutorials/canvas.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2729,
+								2729
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2409.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dobbleSPAproyect.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

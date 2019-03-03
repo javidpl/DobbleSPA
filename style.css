@@ -1,0 +1,31 @@
+body{
+	
+}
+#todos{
+
+	display: inline-block;
+	background-color: limegreen;
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+.card{
+	display: inline-block;
+	background-color: orange;
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+	clear: right;
+	float: left;
+	margin: 5px;
+}
+.verticals{
+	background-color: lightblue;
+}
+.horizontals{
+	background-color: lightgreen;
+}
+.out{
+	background-color: pink;
+}
